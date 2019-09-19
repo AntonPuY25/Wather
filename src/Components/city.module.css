@@ -1,0 +1,17 @@
+.allCity{
+    width:100%;
+    height:300px;
+    position: relative;
+}
+.inputCity{
+    text-align: center;
+}
+.dataTemp{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.iconTemp img {
+    width: 70px;
+    
+}
